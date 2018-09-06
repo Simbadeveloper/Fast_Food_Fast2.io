@@ -1,25 +1,7 @@
 language: python
 
-
-
 python:
- 
- 
-<<<<<<< HEAD:.travis.yml
--'3.4'
-  -'3.6'
-=======
 - "3.6"
->>>>>>> b7c93024211c756293cb6da6de0d1ff5022f72f4:Endpoints/.travis.yml
-
-
-
-
 
 scripts:
- 
- - python test_Fast_Food_Fast.py
-
-
-after_success: 
-  coveralls
+ - pytest
