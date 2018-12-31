@@ -5,26 +5,26 @@
 ## Test endpoints
 
 ## Functionality
-1.Signup
-2.Confirmation
-3.Login
-4.Admin
-5.User
-6.Account detail
-7.Create an order
-8. Get an order by id
-9. Get all orders
-8.Update order
-10. Delete Order
-11. Forget password
-12 .Logout
+1.Signup<br>
+2.Confirmation<br>
+3.Login<br>
+4.Admin<br>
+5.User<br>
+6.Account detail<br>
+7.Create an order<br>
+8. Get an order by id<br>
+9. Get all orders<br>
+8.Update order<br>
+10. Delete Order<br>
+11. Forget password<br>
+12 .Logout<br>
 
 ## Technologies
 Ensure you have the following:
--[1] Python
--[2] Flask framework
--[3] Postman
--[4] Pytest
+-[1] Python<br>
+-[2] Flask framework<br>
+-[3] Postman<br>
+-[4] Pytest<br>
 
 ### Installation of dependencies
 use the following command to install all the dependencies
